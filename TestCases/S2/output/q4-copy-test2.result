@@ -1,0 +1,7 @@
+*** Error at (12,8): field 'dcopy' not found in 'class : Main'
+*** Error at (13,8): field 'scopy' not found in 'class : Main'
+*** Error at (14,8): field 'scopy' not found in 'class : Main'
+*** Error at (15,8): field 'scopy' not found in 'class : Main'
+*** Error at (16,8): field 'scopy' not found in 'class : Main'
+*** Error at (36,7): field 'scopy' not found in 'class : student'
+*** Error at (37,7): undeclared variable 'super'
